@@ -3,7 +3,7 @@
 Possible with built-in CLI utility called `certutil`
 
 
-# Escape from RDP
+# Escape from RDP session
 
 To escape from a full-screen RDP session, press `CTRL+ALT+HOME` and then `ALT+TAB`.  For more RDP-related shortcut keys, see [Remote Desktop Services Shortcut Keys](https://docs.microsoft.com/en-us/windows/win32/termserv/terminal-services-shortcut-keys)
 
