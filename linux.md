@@ -1,3 +1,8 @@
+# Check hash value of file 
+
+`sha256sum afile.bin`
+
+
 # Check what is running on a TCP port 
 
 Try `lsof` (e.g. `lsof -i:4200`) or `netstat` (e.g. `sudo netstat -plnt | grep ':80'`).  Regarding the latter, for more info:  https://support.rackspace.com/how-to/checking-listening-ports-with-netstat/ 
