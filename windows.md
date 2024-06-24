@@ -47,3 +47,7 @@ Similar to the `which` UNIX command, `where` is available as early as Windows XP
 ...>where java
 C:\Windows\System32\java.exe 
 ```
+
+# Rename multiple files with common prefix
+
+`dir *.mp3 | Rename-Item -NewName {"Disc 3 " + $_.BaseName + ".mp3"}`
